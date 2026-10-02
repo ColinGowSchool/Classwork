@@ -2,5 +2,5 @@
 
 ## Week 2
 
-### operators.py
+### operators.py = @operators.py
 test
