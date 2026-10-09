@@ -1,4 +1,4 @@
-# Class room exercises
+# Class work exercises
 This is where I'll upload all my weeks, and tasks, all will be private so no student can copy 
 
 # [Weeks](https://github.com/ColinGowSchool/Weeks/tree/main)
