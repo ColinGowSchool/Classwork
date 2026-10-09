@@ -1,5 +1,5 @@
 # Class room exercises
-
+This is where I'll upload all my weeks, and tasks, all will be private so no student can copy 
 ## Week 2
 
 ### [operators.py](https://github.com/ColinGowSchool/Classwork/blob/Week-2/Operators.py)
